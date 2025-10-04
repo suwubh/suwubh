@@ -94,6 +94,8 @@ I'm a passionate **Full-Stack Developer** from Mesra, JH, who loves building inn
 
 ![Subhankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=suwubh&show_icons=true&theme=dark&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suwubh&layout=compact&theme=dark&hide_border=true&exclude_repo=E-commerce_Analytics,Customer_Churn_Analysis)
+
 
 </div>
 
