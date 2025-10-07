@@ -14,8 +14,8 @@
 
 I'm a passionate **Full-Stack Developer** from Mesra, JH, who loves building innovative web applications and solving complex problems through code. Currently pursuing my studies while actively developing projects that make a difference.
 
-- 🔭 **Currently working on**: AI-powered collaborative tools and multiplayer gaming platforms
-- 🌱 **Learning**: Advanced React patterns, AI/ML integration, and game development
+- 🔭 **Currently working on**: AI-powered collaborative tools and Chess4Nerds mobile version
+- 🌱 **Learning**: Advanced React patterns, AI/ML integration, and React native
 - 👨‍💻 **Interested in**: Web development, Real-time Collaboration, and Interactive Applications
 - 📫 **Reach me**: [subhankarsatpathy69@gmail.com](mailto:subhankarsatpathy69@gmail.com)
 
@@ -102,9 +102,9 @@ I'm a passionate **Full-Stack Developer** from Mesra, JH, who loves building inn
 
 ## 🎯 What I'm Working On
 
-- 🔥 **Portfolio Website**: Building a personal portfolio using React.js
+- 🔥 **Competitive Programming**: Learning advanced DSA patterns and giving contests regularly on Leetcode and Codeforces
 - 🚀 **Open Source**: Contributing to community projects and repositories
-- 🎮 **Game Development**: Enhancing Chess4Nerds with better error handling and UI improvements
+- 🎮 **Personal Projects**: Enhancing Chess4Nerds for smaller screens and integrating Ai in Scriblio
 - 💡 **Real-time Collaboration**: Exploring advanced WebRTC and CRDT implementations
 
 ## 🤝 Let's Connect!
