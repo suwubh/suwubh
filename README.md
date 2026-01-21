@@ -79,15 +79,18 @@ I'm a passionate **Full-Stack Developer** from Mesra, JH, who loves building inn
 
 ### 📄 [PDF Annotator](https://github.com/suwubh/Pdf-annotator) | [Live Demo](https://pdf-annotator-orpin.vercel.app)
 **Interactive PDF Annotation Tool**
+
 - Upload, view, highlight, and annotate PDF documents
 - Persistent storage for annotations
 - Built with TypeScript and modern web technologies
 
-### 📝 [SaaS Notes App](https://github.com/suwubh/saas-notes-app) | [Live Demo](https://saas-notes-app-frontend.vercel.app)
-**Multi-tenant Notes Application**
-- Role-based access control system
-- Scalable SaaS architecture with TypeScript
-- Full authentication and authorization flow
+### 📄 [ReadHaven](https://github.com/yourusername/readhaven) | [Live Demo](https://readhaven.vercel.app)
+**Social Book Discovery Platform**
+
+* Search books, view detailed book pages, manage personal shelves, and write reviews
+* Connect with friends and view an Instagram-inspired activity feed of reviews and shelf updates
+* Built with Next.js App Router, TypeScript, Prisma, PostgreSQL, and NextAuth
+
 
 ## 📈 GitHub Stats
 
