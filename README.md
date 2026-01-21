@@ -70,6 +70,13 @@ I'm a passionate **Full-Stack Developer** from Mesra, JH, who loves building inn
 - Added vs-computer mode with an embedded engine and **server-authoritative move validation**
 - ⭐ 1 star
 
+### 📄 [ReadHaven](https://github.com/suwubh/ReadHaven) | [Live Demo](https://read-haven-sandy.vercel.app)
+**Social Book Discovery Platform**
+
+* Search books, view detailed book pages, manage personal shelves, and write reviews
+* Connect with friends and view an Instagram-inspired activity feed of reviews and shelf updates
+* Built with Next.js App Router, TypeScript, Prisma, PostgreSQL, and NextAuth
+
 ### 💰 [PiggyTrack](https://github.com/suwubh/PiggyTrack) — Personal Finance Dashboard
 **Tech Stack**: React, Node.js, Express, MongoDB, JWT | [**Live Demo**](https://piggytrack-vbyp.onrender.com)
 
@@ -83,13 +90,6 @@ I'm a passionate **Full-Stack Developer** from Mesra, JH, who loves building inn
 - Upload, view, highlight, and annotate PDF documents
 - Persistent storage for annotations
 - Built with TypeScript and modern web technologies
-
-### 📄 [ReadHaven](https://github.com/suwubh/ReadHaven) | [Live Demo](https://readhaven.vercel.app)
-**Social Book Discovery Platform**
-
-* Search books, view detailed book pages, manage personal shelves, and write reviews
-* Connect with friends and view an Instagram-inspired activity feed of reviews and shelf updates
-* Built with Next.js App Router, TypeScript, Prisma, PostgreSQL, and NextAuth
 
 
 ## 📈 GitHub Stats
