@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** from Mesra, JH, who loves building innovative web applications and solving complex problems through code. Currently pursuing my studies while actively developing projects that make a difference.
+I'm a passionate **Full-Stack Developer** from Ranchi, JH, who loves building innovative web applications and solving complex problems through code. Currently pursuing my studies while actively developing projects that make a difference.
 
 - 🔭 **Currently working on**: AI-powered collaborative tools and Chess4Nerds mobile version
 - 🌱 **Learning**: Advanced React patterns, AI/ML integration, and React native
