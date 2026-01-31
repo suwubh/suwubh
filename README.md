@@ -94,14 +94,10 @@ I'm a passionate **Full-Stack Developer** from Mesra, JH, who loves building inn
 - Built with TypeScript and modern web technologies
 
 
-## 🐍 GitHub Contribution Snake
+## 📊 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suwubh/suwubh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suwubh/suwubh/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/suwubh/suwubh/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suwubh&theme=github-dark&hide_border=true" />
 </p>
 
 
