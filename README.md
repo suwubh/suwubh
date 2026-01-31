@@ -94,16 +94,16 @@ I'm a passionate **Full-Stack Developer** from Mesra, JH, who loves building inn
 - Built with TypeScript and modern web technologies
 
 
-## 📈 GitHub Stats
+## 🐍 GitHub Contribution Snake
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suwubh/suwubh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suwubh/suwubh/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/suwubh/suwubh/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-![Subhankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=suwubh&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suwubh&layout=compact&theme=dark&hide_border=true&exclude_repo=E-commerce_Analytics,Customer_Churn_Analysis)
-
-
-</div>
 
 ## 🎯 What I'm Working On
 
