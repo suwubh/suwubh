@@ -100,6 +100,8 @@ I'm a passionate **Full-Stack Developer** from Ranchi, JH, who loves building in
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suwubh&theme=github-dark&hide_border=true" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
 
 ## 🎯 What I'm Working On
 
