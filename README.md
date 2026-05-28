@@ -119,10 +119,10 @@ Full-stack finance tracker with RESTful APIs, JWT auth, interactive spending cha
 
 ---
 
-## 🏆 Trophies
-
+## 🧰 Tech Stack
+ 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suwubh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgres,mongodb,redis,docker,git,vercel,tailwind&perline=6" />
 </div>
 
 ---
