@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Subhankar+%F0%9F%91%8B;Full-Stack+Developer+%40+BIT+Mesra;Real-Time+Systems+%E2%80%A2+AI+Tooling+%E2%80%A2+Scalable+Backends;Open+to+Remote+Work+%26+Freelance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Subhankar+%F0%9F%91%8B;Full-Stack+Developer+%40+BIT+Mesra;Real-Time+Systems+%7C+AI+Tooling;Open+to+Remote+%26+Freelance" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,21 +18,21 @@
 
 ## Who I Am
 
-I'm a **pre-final year ECE student at BIT Mesra** (graduating 2027) who builds production-grade full-stack systems — not just side projects. My focus is on the hard stuff: real-time collaboration, distributed state, AI integration, and systems that hold up under load.
+I'm a third-year ECE student at BIT Mesra (graduating 2027). I spend most of my time building web apps, solving competitive programming problems, and going down rabbit holes about how distributed systems actually work.
 
-I've built platforms that handle **110+ concurrent users with sub-120ms latency**, run usability studies that resulted in a **60% reduction in task completion time**, and shipped test suites with **91% code coverage** — all before finishing my degree.
+Over the past year I've built a few projects I'm genuinely proud of. A real-time collaborative whiteboard where I had to figure out conflict resolution across peers. A multiplayer chess platform that I load-tested until I was happy with the numbers. A social reading app with a vector search engine under the hood. I care a lot about whether the thing I built actually works when people use it.
 
-I'm actively looking for **remote engineering roles, internships, and freelance work** where I can build things that matter.
+Right now I'm looking for remote internships, freelance work, or anything where I can contribute meaningfully and keep learning fast.
 
-- 🔭 Currently building: Chess4Nerds mobile + deeper AI integration in Scriblio
-- 🧠 Exploring: Advanced CRDT implementations, distributed systems internals
-- 🏆 Achievements: SIH 2025 Finalist · HackQuest 2025 Winner · NTSE Scholar · KVPY Fellow
-- 🎯 IEEE Technical Lead @ BIT Mesra — led a 5-person team, reviewed 20+ PRs, shipped 3 club projects
-- ♟️ Chess.com top 1% globally (1750 Elo) — pattern recognition is my thing
+- Currently building: Chess4Nerds mobile + more AI features in Scriblio
+- Learning: distributed systems internals, advanced CRDT patterns
+- SIH 2025 Finalist, HackQuest 2025 Winner, NTSE Scholar, KVPY Fellow
+- IEEE Technical Lead at BIT Mesra, led a 5-person team and shipped 3 club projects
+- Top 1% on Chess.com (1750 Elo) — I like puzzles:)
 
 ---
 
-## 🛠️ What I Work With
+## What I Work With
 
 | Layer | Tools |
 |---|---|
@@ -46,55 +46,47 @@ I'm actively looking for **remote engineering roles, internships, and freelance 
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### [Scriblio](https://github.com/suwubh/Scriblio) — AI-Powered Collaborative Whiteboard
-> *TypeScript · React · Yjs (CRDT) · WebRTC · WebSockets · Redis · OpenAI/Groq · Docker · k6*
+### [Scriblio](https://github.com/suwubh/Scriblio) — Collaborative Whiteboard with AI · [Live Demo](https://scriblio-rose.vercel.app/)
+> TypeScript · React · Yjs (CRDT) · WebRTC · WebSockets · Redis · OpenAI/Groq · Docker · k6
 
-The interesting engineering problem here: how do you keep a shared canvas consistent across peers when the network is unreliable? I solved it with **Yjs CRDTs for eventual consistency** and a **hybrid WebRTC + WebSocket fallback** so writes are never blocked by connectivity.
+The core problem I was trying to solve: how do you keep a shared canvas consistent when multiple people are editing at the same time and the network isn't reliable? I ended up using Yjs CRDTs for conflict resolution and a hybrid WebRTC + WebSocket fallback so edits go through even when P2P drops.
 
-**Numbers that matter:**
-- Load-tested the signaling server with k6: **25 concurrent clients, ~9,800 messages over 60s, 107ms median RTT, 0 connection errors** on the live cloud deployment
-- Built a natural-language AI command palette (Cmd+K) using OpenAI/Groq — in a **22-participant usability study**, median diagram creation time dropped from **95s → 38s (60% faster)**, with 82% of users preferring the AI flow and a **4.3/5 "would use again" score**
-- 4-service Docker Compose architecture: React client · WebSocket signaling · AI command service · Redis presence layer
+I also added an AI command palette (Cmd+K) so you can describe a diagram in plain English and it gets drawn for you. Ran a small usability study with 22 people and median diagram creation time went from 95s to 38s.
 
----
-
-### [Chess4Nerds](https://github.com/suwubh/Chess4Nerds) — Real-Time Multiplayer Chess Platform
-> *TypeScript · React · Node.js · WebSockets · Redis · PostgreSQL · Prisma · Turborepo · GitHub Actions*
-
-Building a chess platform sounds simple until you have to handle concurrent games at scale, reconnections without state loss, and a matchmaking system that's actually fair.
-
-**Numbers that matter:**
-- **110+ concurrent matches at 305 moves/sec**, p95 move propagation **112ms** under k6 load (220 VUs, 60s, single Node WS replica)
-- Server-authoritative move validation via chess.js, async write-behind to Postgres, and DB-backed game rejoin on reconnect
-- Redis pub/sub relay layer for horizontal WS scaling; GitHub Actions CI on every PR
-- **From-scratch minimax + alpha-beta AI opponent** with MVV-LVA move ordering and piece-square-table evaluation — configurable easy/medium/hard via search depth 2/3/4
-- Elo-band matchmaking (±100, widens with wait time)
+Load tested the WebSocket signaling server with k6: 25 concurrent clients, ~9,800 messages over 60s, 0 connection errors, 107ms median round-trip on the live deployment.
 
 ---
 
-### [ReadHaven](https://github.com/suwubh/ReadHaven) — Social Book Discovery Platform · [Live Demo](https://read-haven-sandy.vercel.app)
-> *Next.js 16 · TypeScript · PostgreSQL + pgvector · Prisma · NextAuth · Jest · GitHub Actions · Vercel*
+### [Chess4Nerds](https://github.com/suwubh/Chess4Nerds) — Multiplayer Chess Platform · [Live Demo](https://chess4-nerds-frontend.vercel.app/)
+> TypeScript · React · Node.js · WebSockets · Redis · PostgreSQL · Prisma · Turborepo · GitHub Actions
 
-The feature I'm proudest of here isn't the social feed — it's the vector-similarity recommendation engine. Book embeddings via **all-MiniLM-L6-v2 (384-dim)**, indexed with **pgvector ivfflat for cosine distance**, powering both semantic search and "More Like This" on every book page.
+Chess is a good problem domain for learning real-time systems because so many things can go wrong. A player disconnects mid-game. Two moves arrive out of order. You need to scale to more than one server.
 
-**By the numbers:**
-- **7K+ book catalog** seeded from Open Library with ISBN deduplication
-- Jest test suite: **132 tests across 19 suites**, **91% line / 88% statement coverage** on auth and API handlers
-- GitHub Actions CI/CD with ephemeral pgvector/pgvector:pg16 service containers
-- **Lighthouse: 100 SEO / 90 Accessibility**
+I handled disconnects with DB-backed game state so you can rejoin where you left off. Move validation is server-side so you can't cheat. Redis pub/sub lets game broadcasts cross WebSocket replicas. Under k6 load (220 VUs, 60s) it held 110+ concurrent matches at 305 moves/sec with p95 propagation at 112ms.
+
+Also built a minimax AI opponent from scratch with alpha-beta pruning and MVV-LVA move ordering. Three difficulty levels via search depth 2/3/4.
 
 ---
 
-### [PiggyTrack](https://github.com/suwubh/PiggyTrack) — Personal Finance Dashboard · [Live Demo](https://piggytrack-vbyp.onrender.com)
-> *React · Node.js · Express · MongoDB · JWT*
+### [ReadHaven](https://github.com/suwubh/ReadHaven) — Social Reading Platform · [Live Demo](https://read-haven-sandy.vercel.app)
+> Next.js 16 · TypeScript · PostgreSQL + pgvector · Prisma · NextAuth · Jest · GitHub Actions · Vercel
 
-Full-stack finance tracker with RESTful APIs, JWT auth, interactive spending charts, and one-click Excel export. A cleaner, more focused project — good example of doing a simple thing really well.
+The part I enjoyed most was the recommendation engine. I embedded 7K+ books using all-MiniLM-L6-v2 (384 dimensions) and indexed them with pgvector's ivfflat index for cosine similarity search. It powers both the /discover semantic search page and "More like this" on every book detail page.
+
+Wrote a proper test suite for this one: 132 tests across 19 suites, 91% line coverage. Lighthouse score: 100 SEO, 90 Accessibility.
 
 ---
 
-## 📊 GitHub Stats
+### [PiggyTrack](https://github.com/suwubh/PiggyTrack) — Finance Tracker · [Live Demo](https://piggytrack-vbyp.onrender.com)
+> React · Node.js · Express · MongoDB · JWT
+
+Personal finance dashboard with spending charts, JWT auth, and Excel export. Simpler than the others but a clean, complete full-stack app.
+
+---
+
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suwubh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
@@ -119,17 +111,17 @@ Full-stack finance tracker with RESTful APIs, JWT auth, interactive spending cha
 
 ---
 
-## 🧰 Tech Stack
- 
+## Tech Stack
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgres,mongodb,redis,docker,git,vercel,tailwind&perline=6" />
 </div>
 
 ---
 
-## Let's Work Together
+## Let's Talk
 
-I'm open to **remote internships, full-time roles, and freelance projects** — especially anything involving real-time systems, AI tooling, or complex backend architecture. If you're building something interesting and need someone who ships production-ready code, let's talk.
+I'm open to remote internships, freelance projects, or full-time roles after graduation. If you're working on something interesting, feel free to reach out.
 
 <div align="center">
 
