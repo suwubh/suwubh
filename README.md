@@ -1,132 +1,144 @@
-# Hey there! 👋 I'm Subhankar Satpathy
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Subhankar+%F0%9F%91%8B;Full-Stack+Developer+%40+BIT+Mesra;Real-Time+Systems+%E2%80%A2+AI+Tooling+%E2%80%A2+Scalable+Backends;Open+to+Remote+Work+%26+Freelance" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  
-💡 **Turning ideas into clean, functional code | Full-Stack Developer**
 
-[![GitHub followers](https://img.shields.io/github/followers/suwubh?label=Follow\&style=social)](https://github.com/suwubh)
-[![GitHub stars](https://img.shields.io/github/stars/suwubh?label=Stars\&style=social)](https://github.com/suwubh)
-[![Live Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen?style=for-the-badge\&logo=google-chrome)](https://my-portfolio-suwubh.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio--suwubh.vercel.app-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-suwubh.vercel.app)
+[![Email](https://img.shields.io/badge/Email-subhankarsatpathy69%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:subhankarsatpathy69@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-subhankar--satpathy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhankar-satpathy)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%201769-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/suwubh)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%201459-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/suwubh)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%98%85%201669-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/suwubh)
 
 </div>
 
-## 🚀 About Me
+---
 
-I'm a passionate **Full-Stack Developer** from Ranchi, JH, who loves building innovative web applications and solving complex problems through code. Currently pursuing my studies while actively developing projects that make a difference.
+## Who I Am
 
-- 🔭 **Currently working on**: AI-powered collaborative tools and Chess4Nerds mobile version
-- 🌱 **Learning**: Advanced React patterns, AI/ML integration, and React native
-- 👨‍💻 **Interested in**: Web development, Real-time Collaboration, and Interactive Applications
-- 📫 **Reach me**: [subhankarsatpathy69@gmail.com](mailto:subhankarsatpathy69@gmail.com)
+I'm a **pre-final year ECE student at BIT Mesra** (graduating 2027) who builds production-grade full-stack systems — not just side projects. My focus is on the hard stuff: real-time collaboration, distributed state, AI integration, and systems that hold up under load.
 
-## 🛠️ Skills
+I've built platforms that handle **110+ concurrent users with sub-120ms latency**, run usability studies that resulted in a **60% reduction in task completion time**, and shipped test suites with **91% code coverage** — all before finishing my degree.
 
-### Programming Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+I'm actively looking for **remote engineering roles, internships, and freelance work** where I can build things that matter.
 
-### Web Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- 🔭 Currently building: Chess4Nerds mobile + deeper AI integration in Scriblio
+- 🧠 Exploring: Advanced CRDT implementations, distributed systems internals
+- 🏆 Achievements: SIH 2025 Finalist · HackQuest 2025 Winner · NTSE Scholar · KVPY Fellow
+- 🎯 IEEE Technical Lead @ BIT Mesra — led a 5-person team, reviewed 20+ PRs, shipped 3 club projects
+- ♟️ Chess.com top 1% globally (1750 Elo) — pattern recognition is my thing
 
+---
 
-### Real-Time Collaboration
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Yjs](https://img.shields.io/badge/-Yjs%20(CRDTs)-FF6B6B?style=flat-square&logoColor=white)
+## 🛠️ What I Work With
 
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+| Layer | Tools |
+|---|---|
+| **Languages** | TypeScript, JavaScript (ES6+), C++, Java, SQL |
+| **Frontend** | React.js, Next.js, Tailwind CSS, SSR, WebRTC |
+| **Backend** | Node.js, Express.js, WebSockets, REST APIs, JWT, OAuth |
+| **AI / LLM** | OpenAI API, Groq API, pgvector, sentence-transformers |
+| **Databases** | PostgreSQL, MongoDB, Redis, Prisma |
+| **DevOps** | Docker, GitHub Actions, AWS (S3, EC2), Vercel, Turborepo, Jest, k6 |
+| **CS Core** | DSA, OOP, DBMS, OS, Computer Networks, System Design |
 
-### Developer Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🎨 [Scriblio](https://github.com/suwubh/Scriblio) — AI-Powered Collaborative Whiteboard
-**Tech Stack**: TypeScript, React, Node.js, Yjs (CRDTs), WebRTC, WebSockets, Redis
+### [Scriblio](https://github.com/suwubh/Scriblio) — AI-Powered Collaborative Whiteboard
+> *TypeScript · React · Yjs (CRDT) · WebRTC · WebSockets · Redis · OpenAI/Groq · Docker · k6*
 
-- Developed a collaborative whiteboard that converts unstructured brainstorming into actionable outputs, reducing manual redrawing and transcription
-- Designed **CRDT-based synchronization** (Yjs) for eventual consistency and hybrid transport (WebRTC with WebSocket+Redis fallback) for low-latency collaboration
-- Integrated a **multimodal AI assistant** to generate diagrams, summaries, and images from natural language prompts and auto-embed them with smart layouts
-- ⭐ 2 stars
+The interesting engineering problem here: how do you keep a shared canvas consistent across peers when the network is unreliable? I solved it with **Yjs CRDTs for eventual consistency** and a **hybrid WebRTC + WebSocket fallback** so writes are never blocked by connectivity.
 
-### ♟️ [Chess4Nerds](https://github.com/suwubh/Chess4Nerds) — Multiplayer Chess Platform
-**Tech Stack**: TypeScript, React, Node.js, WebSockets, Redis, PostgreSQL
+**Numbers that matter:**
+- Load-tested the signaling server with k6: **25 concurrent clients, ~9,800 messages over 60s, 107ms median RTT, 0 connection errors** on the live cloud deployment
+- Built a natural-language AI command palette (Cmd+K) using OpenAI/Groq — in a **22-participant usability study**, median diagram creation time dropped from **95s → 38s (60% faster)**, with 82% of users preferring the AI flow and a **4.3/5 "would use again" score**
+- 4-service Docker Compose architecture: React client · WebSocket signaling · AI command service · Redis presence layer
 
-- Implemented **real-time room-scoped state management** with presence, seamless reconnects, and horizontal scaling using Redis pub/sub
-- Built matchmaking, **transactional persistence** (Postgres) with idempotent writes, Elo ratings, leaderboards, durable match history, and rate-limited in-game chat
-- Added vs-computer mode with an embedded engine and **server-authoritative move validation**
-- ⭐ 1 star
+---
 
-### 📄 [ReadHaven](https://github.com/suwubh/ReadHaven) | [Live Demo](https://read-haven-sandy.vercel.app)
-**Social Book Discovery Platform**
+### [Chess4Nerds](https://github.com/suwubh/Chess4Nerds) — Real-Time Multiplayer Chess Platform
+> *TypeScript · React · Node.js · WebSockets · Redis · PostgreSQL · Prisma · Turborepo · GitHub Actions*
 
-* Search books, view detailed book pages, manage personal shelves, and write reviews
-* Connect with friends and view an Instagram-inspired activity feed of reviews and shelf updates
-* Built with Next.js App Router, TypeScript, Prisma, PostgreSQL, and NextAuth
+Building a chess platform sounds simple until you have to handle concurrent games at scale, reconnections without state loss, and a matchmaking system that's actually fair.
 
-### 💰 [PiggyTrack](https://github.com/suwubh/PiggyTrack) — Personal Finance Dashboard
-**Tech Stack**: React, Node.js, Express, MongoDB, JWT | [**Live Demo**](https://piggytrack-vbyp.onrender.com)
+**Numbers that matter:**
+- **110+ concurrent matches at 305 moves/sec**, p95 move propagation **112ms** under k6 load (220 VUs, 60s, single Node WS replica)
+- Server-authoritative move validation via chess.js, async write-behind to Postgres, and DB-backed game rejoin on reconnect
+- Redis pub/sub relay layer for horizontal WS scaling; GitHub Actions CI on every PR
+- **From-scratch minimax + alpha-beta AI opponent** with MVV-LVA move ordering and piece-square-table evaluation — configurable easy/medium/hard via search depth 2/3/4
+- Elo-band matchmaking (±100, widens with wait time)
 
-- Developed a full-stack finance app with **RESTful APIs**, secure JWT authentication, server-side validation, and CRUD transactions
-- Delivered interactive spending charts, one-click Excel export, and a **responsive UI** for mobile and desktop
-- ⭐ 2 stars
+---
 
-### 📄 [PDF Annotator](https://github.com/suwubh/Pdf-annotator) | [Live Demo](https://pdf-annotator-orpin.vercel.app)
-**Interactive PDF Annotation Tool**
+### [ReadHaven](https://github.com/suwubh/ReadHaven) — Social Book Discovery Platform · [Live Demo](https://read-haven-sandy.vercel.app)
+> *Next.js 16 · TypeScript · PostgreSQL + pgvector · Prisma · NextAuth · Jest · GitHub Actions · Vercel*
 
-- Upload, view, highlight, and annotate PDF documents
-- Persistent storage for annotations
-- Built with TypeScript and modern web technologies
+The feature I'm proudest of here isn't the social feed — it's the vector-similarity recommendation engine. Book embeddings via **all-MiniLM-L6-v2 (384-dim)**, indexed with **pgvector ivfflat for cosine distance**, powering both semantic search and "More Like This" on every book page.
 
+**By the numbers:**
+- **7K+ book catalog** seeded from Open Library with ISBN deduplication
+- Jest test suite: **132 tests across 19 suites**, **91% line / 88% statement coverage** on auth and API handlers
+- GitHub Actions CI/CD with ephemeral pgvector/pgvector:pg16 service containers
+- **Lighthouse: 100 SEO / 90 Accessibility**
 
-## 📊 Contribution Activity
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suwubh&theme=github-dark&hide_border=true" />
-</p>
+### [PiggyTrack](https://github.com/suwubh/PiggyTrack) — Personal Finance Dashboard · [Live Demo](https://piggytrack-vbyp.onrender.com)
+> *React · Node.js · Express · MongoDB · JWT*
 
-![Profile Views](https://komarev.com/ghpvc/?username=suwubh&color=blue)
+Full-stack finance tracker with RESTful APIs, JWT auth, interactive spending charts, and one-click Excel export. A cleaner, more focused project — good example of doing a simple thing really well.
 
+---
 
-## 🎯 What I'm Working On
+## 📊 GitHub Stats
 
-- 🔥 **Competitive Programming**: Learning advanced DSA patterns and giving contests regularly on Leetcode and Codeforces
-- 🚀 **Open Source**: Contributing to community projects and repositories
-- 🎮 **Personal Projects**: Enhancing Chess4Nerds for smaller screens and integrating Ai in Scriblio
-- 💡 **Real-time Collaboration**: Exploring advanced WebRTC and CRDT implementations
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suwubh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suwubh&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
+</div>
 
-## 🤝 Let's Connect!
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=suwubh&theme=github-dark-blue&hide_border=true&background=0D1117" />
+</div>
 
-I'm always open to discussing new opportunities, collaborating on interesting projects, or just having a chat about technology!
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suwubh&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suwubh/suwubh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suwubh/suwubh/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/suwubh/suwubh/output/github-snake.svg" />
+</picture>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suwubh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## Let's Work Together
+
+I'm open to **remote internships, full-time roles, and freelance projects** — especially anything involving real-time systems, AI tooling, or complex backend architecture. If you're building something interesting and need someone who ships production-ready code, let's talk.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suwubh)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhankarsatpathy69@gmail.com)
+**[subhankarsatpathy69@gmail.com](mailto:subhankarsatpathy69@gmail.com)** · **[LinkedIn](https://linkedin.com/in/subhankar-satpathy)** · **[Portfolio](https://my-portfolio-suwubh.vercel.app)**
 
 </div>
 
 ---
 
 <div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad." — Cory House**
-
-⭐ **If you find my projects interesting, feel free to star them!** ⭐
-
+  <img src="https://komarev.com/ghpvc/?username=suwubh&color=58A6FF&style=flat-square&label=Profile+Views" />
 </div>
