@@ -8,10 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-subhankarsatpathy69%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:subhankarsatpathy69@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-subhankar--satpathy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhankar-satpathy)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%201769-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/suwubh)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%201459-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/suwubh)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%98%85%201669-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/suwubh)
-
 </div>
 
 ---
