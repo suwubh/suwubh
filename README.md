@@ -22,7 +22,7 @@ Right now I'm looking for remote internships, freelance work, or anything where 
 
 - Currently building: Chess4Nerds mobile + more AI features in Scriblio
 - Learning: distributed systems internals, advanced CRDT patterns
-- SIH 2025 Finalist, HackQuest 2025 Winner, NTSE Scholar, KVPY Fellow
+- Semifinalist, Hackon with Amazon S6; Top 300 among 100000+ participants
 - IEEE Technical Lead at BIT Mesra, led a 5-person team and shipped 3 club projects
 - Top 1% on Chess.com (1750 Elo) — I like puzzles:)
 
