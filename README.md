@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Subhankar+%F0%9F%91%8B;Full-Stack+Developer+%40+BIT+Mesra;Real-Time+Systems+%7C+AI+Tooling;Open+to+Remote+%26+Freelance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Subhankar+%F0%9F%91%8B;Final-Year+SDE+%40+BIT+Mesra+%2727;Real-Time+Systems+%7C+AI+Tooling;Open+to+Full-Time+SDE+Roles" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,17 +14,17 @@
 
 ## Who I Am
 
-I'm a third-year ECE student at BIT Mesra (graduating 2027). I spend most of my time building web apps, solving competitive programming problems, and going down rabbit holes about how distributed systems actually work.
+I'm a final-year ECE student at BIT Mesra (graduating 2027). I spend most of my time building web apps, solving competitive programming problems, and going down rabbit holes about how distributed systems actually work.
 
 Over the past year I've built a few projects I'm genuinely proud of. A real-time collaborative whiteboard where I had to figure out conflict resolution across peers. A multiplayer chess platform that I load-tested until I was happy with the numbers. A social reading app with a vector search engine under the hood. I care a lot about whether the thing I built actually works when people use it.
 
-Right now I'm looking for remote internships, freelance work, or anything where I can contribute meaningfully and keep learning fast.
+I'm currently looking for full-time SDE roles starting 2027 — also open to remote work or freelance collaborations if you're building something interesting in the meantime.
 
 - Currently building: Chess4Nerds mobile + more AI features in Scriblio
 - Learning: distributed systems internals, advanced CRDT patterns
-- Semifinalist, Hackon with Amazon S6; Top 300 among 100000+ participants
+- Semifinalist, HackOn with Amazon S6 — Top 300 of 100,000+ teams (built Amazon Second Life)
 - IEEE Technical Lead at BIT Mesra, led a 5-person team and shipped 3 club projects
-- Top 1% on Chess.com (1750 Elo) — I like puzzles:)
+- Top 1% on Chess.com (1750 Elo) — I like puzzles :)
 
 ---
 
@@ -75,6 +75,15 @@ Wrote a proper test suite for this one: 132 tests across 19 suites, 91% line cov
 
 ---
 
+### [Amazon Second Life](https://github.com/suwubh) — Multimodal Returns & Resale Platform · HackOn with Amazon S6
+> Python · FastAPI · Gemini 2.5 Flash · AWS Bedrock (Nova) · DynamoDB · Docker · Lambda
+
+Built during HackOn with Amazon Season 6, where our team placed in the Top 300 out of 100,000+ registrants. The problem: retailers lose huge value on returned items that could easily be resold instead of scrapped. Second Life takes photos/video of a returned item and uses Gemini 2.5 Flash to assess condition and generate a resale listing automatically, with AWS Bedrock Nova as an automatic failover if Gemini is unavailable.
+
+Enforced strict Pydantic JSON-schema validation on every model response so a malformed AI output never breaks the pipeline. Shipped as a Dockerized FastAPI service on Lambda, with DynamoDB for listing storage.
+
+---
+
 ### [PiggyTrack](https://github.com/suwubh/PiggyTrack) — Finance Tracker · [Live Demo](https://piggytrack-vbyp.onrender.com)
 > React · Node.js · Express · MongoDB · JWT
 
@@ -85,8 +94,8 @@ Personal finance dashboard with spending charts, JWT auth, and Excel export. Sim
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suwubh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suwubh&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suwubh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suwubh&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
 </div>
 
 <div align="center">
@@ -117,7 +126,7 @@ Personal finance dashboard with spending charts, JWT auth, and Excel export. Sim
 
 ## Let's Talk
 
-I'm open to remote internships, freelance projects, or full-time roles after graduation. If you're working on something interesting, feel free to reach out.
+I'm looking for full-time SDE roles after graduation in 2027 — also open to freelance projects or remote collaboration in the meantime. If you're working on something interesting, feel free to reach out.
 
 <div align="center">
 
