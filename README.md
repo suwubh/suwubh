@@ -75,7 +75,7 @@ Wrote a proper test suite for this one: 132 tests across 19 suites, 91% line cov
 
 ---
 
-### [Amazon Second Life](https://github.com/suwubh) — Multimodal Returns & Resale Platform · HackOn with Amazon S6
+### [Amazon Second Life](https://github.com/suwubh/Amazon-hackon) — Multimodal Returns & Resale Platform · HackOn with Amazon S6
 > Python · FastAPI · Gemini 2.5 Flash · AWS Bedrock (Nova) · DynamoDB · Docker · Lambda
 
 Built during HackOn with Amazon Season 6, where our team placed in the Top 300 out of 100,000+ registrants. The problem: retailers lose huge value on returned items that could easily be resold instead of scrapped. Second Life takes photos/video of a returned item and uses Gemini 2.5 Flash to assess condition and generate a resale listing automatically, with AWS Bedrock Nova as an automatic failover if Gemini is unavailable.
