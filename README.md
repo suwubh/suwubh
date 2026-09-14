@@ -32,12 +32,12 @@ I'm currently looking for full-time SDE roles starting 2027 — also open to rem
 
 | Layer | Tools |
 |---|---|
-| **Languages** | TypeScript, JavaScript (ES6+), C++, Java, SQL |
+| **Languages** | TypeScript, JavaScript (ES6+), C++, Python, SQL |
 | **Frontend** | React.js, Next.js, Tailwind CSS, SSR, WebRTC |
 | **Backend** | Node.js, Express.js, WebSockets, REST APIs, JWT, OAuth |
 | **AI / LLM** | OpenAI API, Groq API, pgvector, sentence-transformers |
 | **Databases** | PostgreSQL, MongoDB, Redis, Prisma |
-| **DevOps** | Docker, GitHub Actions, AWS (S3, EC2), Vercel, Turborepo, Jest, k6 |
+| **DevOps** | Docker, GitHub Actions, AWS, Vercel, Turborepo, Jest, k6 |
 | **CS Core** | DSA, OOP, DBMS, OS, Computer Networks, System Design |
 
 ---
